@@ -1,7 +1,7 @@
 # Profile
 
 ## About the project
-The idea is to create some sort of dashboard for a student profile that we can modify as we want. It should allow to add and remove modules (like Sprint, Objectives (hello from the future)), focus attention on important information (like student performance). The project was not finished when my internship ended. So all information presented here is work in progress. Source code can be provided on demand (possibly)
+The idea is to create some sort of dashboard for a student profile that we can modify as we want. It should allow to add and remove modules (like Sprint, Objectives (hello from the future)), focus attention on important information (like student performance). The project was not finished when my internship ended. So all information presented here is work in progress. Source code can be provided on demand (possibly). This README was taken from the project folder
 
 ## Team
 * Aleksandr Buzdin ([abuzdin](https://profile.intra.42.fr/users/abuzdin) / [medved](https://profile.intra.42.fr/users/medved))
